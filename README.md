@@ -1,7 +1,7 @@
 #  HHU Code
 > 河海大学 物联网工程学院 物联网工程大二下课程源代码
 >
->  *-- By CodeJuzi
+>  -- By CodeJuzi
 ## 使用说明
 ### 下载：
 
@@ -11,7 +11,9 @@ git clone https://gitee.com/codejuzi/hhu-iot-code-sophomore.git
 
 ### 参与：
 
-Fork本项目 -> 提交issue -> 提交Pr
+1. Fork本项目
+2. 提交到自己的同名仓库，需要跑通测试
+3. 提交Pull Request
 
 
 
